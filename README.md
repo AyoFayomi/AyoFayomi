@@ -1,6 +1,6 @@
 # <h1 align="center">Hola amigo👋, I'm Ayomide</h1>
 
-[Ayomide's GitHub Banner](./pexels-rodolfo-clix-1036936.png)
+![Ayomide's GitHub Banner](./pexels-rodolfo-clix-1036936.png)
 
 <h3 align="center">I'm a passionate frontend developer from Lagos, Nigeria. I enjoy learning new languages and getting better with the latest technologies and framworks.</h3>
 
