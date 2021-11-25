@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ayomide</h1>
-<h3 align="center">A passionate frontend developer from Nigeria. I enjoy learning new languages and getting better with the latest technologies and framwork.</h3>
+## <h1 align="center">Hi 👋, I'm Ayomide</h1>
+<h3 align="center">I'm a passionate frontend developer from Lagos, Nigeria. I enjoy learning new languages and getting better with the latest technologies and framworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayofayomi&label=Profile%20views&color=0e75b6&style=flat" alt="ayofayomi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ayo_fayomi" target="blank"><img src="https://img.shields.io/twitter/follow/ayo_fayomi?logo=twitter&style=for-the-badge" alt="ayo_fayomi" /></a> </p>
 
-- 🌱 I’m currently learning **React, React hooks, node, web3.**
+- 🌱 I’m currently learning **Reactjs, React hooks, nodejs, web3.**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Football**
 
 - 📫 How to reach me **ayofayomi.m@gmail.com**
 
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayofayomi&show_icons=true&locale=en" alt="ayofayomi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayofayomi&" alt="ayofayomi" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayofayomi&" alt="ayofayomi" /></p>
