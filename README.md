@@ -1,6 +1,8 @@
 # <h1 align="center">Hola amigo👋, I'm Ayomide</h1>
 <h3 align="center">I'm a passionate frontend developer from Lagos, Nigeria. I enjoy learning new languages and getting better with the latest technologies and framworks.</h3>
 
+[![Ayomide's GitHub Banner](./GitHubHeader.png)]
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayofayomi&label=Profile%20views&color=0e75b6&style=flat" alt="ayofayomi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ayo_fayomi" target="blank"><img src="https://img.shields.io/twitter/follow/ayo_fayomi?logo=twitter&style=for-the-badge" alt="ayo_fayomi" /></a> </p>
