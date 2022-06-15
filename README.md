@@ -1,4 +1,4 @@
-# <h1 align="center">Hola amigo👋, I'm Ayomide</h1>
+# <h1 align="center">Holla amigo 👋, Ayomide here</h1>
 
 ![Ayomide's GitHub Banner](./pexels-rodolfo-clix-1036936.png)
 
@@ -12,13 +12,13 @@
 
 - 📫 How to reach me **ayofayomi.m@gmail.com**
 
-- ⚡ Fun fact **I try to make this happen with code but in the end, code makes things happen with me.**
+- ⚡ Fun fact **No such thing as good/bad, ugly/beautiful... There's only perspectives.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayo_fayomi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayo_fayomi" height="30" width="40" /></a>
 <a href="https://fb.com/ayomide fayomi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayomide fayomi" height="30" width="40" /></a>
-<a href="https://instagram.com/ayo_fayomi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayo_fayomi" height="30" width="40" /></a>
+<a href="https://instagram.com/ayo_fayomi" target="blank"><img align="center" src="https://raw.githubuserconelive the =tent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayo_fayomi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
