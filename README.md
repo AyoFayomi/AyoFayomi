@@ -2,7 +2,7 @@
 
 ![Ayomide's GitHub Banner](./pexels-rodolfo-clix-1036936.png)
 
-<h3 align="center">I'm a passionate frontend developer from Lagos, Nigeria. I enjoy learning new languages and getting better with the latest technologies and framworks.</h3>
+<h3 align="center">I'm a passionate frontend developer from Lagos, Nigeria. I enjoy learning new languages and getting better with the latest technologies and frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayofayomi&label=Profile%20views&color=0e75b6&style=flat" alt="ayofayomi" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ayofayomi.m@gmail.com**
 
-- ⚡ Fun fact **No such thing as good/bad, ugly/beautiful... There's only perspectives.**
+- ⚡ Fun fact **No such thing as good/bad, ugly/beautiful... There are only perspectives.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
